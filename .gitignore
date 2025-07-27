@@ -1,0 +1,4 @@
+mingw-get-setup.exe
+*.exe
+*.out
+.vscode
